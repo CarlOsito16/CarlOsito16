@@ -10,6 +10,10 @@ Despite my newly found interest and experience in this field, I am proud to have
 ## Academic final projects
 
 ### Structured Data
+
+- [HR Analytics: Insights behind Employees Productivity, Performance and Attrition]() ([presentation](https://onedrive.live.com/?cid=5A38BE4A4C58386D&id=5A38BE4A4C58386D%219065&parId=5A38BE4A4C58386D%218984&o=OneUp)): Using the HR-related public dataset from Kaggle, my contribution to this group project is on the statistical test to identify the pay equity and salary increment among gender and department. I also developed and deployed the model to predict the attrition rate of employees.
+
+
 - [Credit Card Customer Clustering](https://github.com/CarlOsito16/card-customer-segmentation) ([presentation](https://1drv.ms/p/s!Am04WExKvjhaibYLTk7qWDmqNmyXCg?e=Aupcgy)): In this unsupervised project, the main task is to cluster customers into segments so as to understand each segment's behavior and profile for the business to offer the right product. Principal component analysis is used for dimensionality reduction before putiing into the K-mean clustering. Outliers of each output cluster is removed by another unsupervised algorithm of DBSCAN. The resuling clusters are explained in tree diagram with business interpretation
 
 ### Non-Structured Data
