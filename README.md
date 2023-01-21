@@ -1,6 +1,6 @@
 ## Hi there 👋✨
 
-I am a career switcher with HR domains to Data Science and AI. 
+I am a career switcher from HR domains to Data Science and AI. 
 
 After completing my first year in Thailand 🇹🇭, I received a scholarship and am doing a dual-degree Master program in Data Science in France 🇫🇷
 Starting from February 2023, I am so excited to be joining a startup as AI developer in Paris ✨
