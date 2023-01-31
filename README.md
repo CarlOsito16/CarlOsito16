@@ -15,7 +15,7 @@ Despite my newly found interest and experience in this field, I am proud to have
 
 - [Does reduced traffic flow result in better air quality?](https://github.com/CarlOsito16/IoTMadrid) ([presentation](https://1drv.ms/b/s!Am04WExKvjhaibZyWewjBUdJJiyymw?e=HbSISd), [paper](https://1drv.ms/b/s!Am04WExKvjhaibZzyvrpTpDqYqVCPw?e=1et3sC)): This project is for IoT class in which I am studying the correlation between the traffic flow and the air pollutant levels using the open dataset from Madrid, Spain. The analysis goes deeper in identifying the pattern and gauge the statistical signifiance in ternms of traffic change and its correlation before COVID, during COVID and after COVID years.
 
-- [HR Analytics: Insights behind Employees Productivity, Performance and Attrition](https://github.com/CarlOsito16/BIA) ([presentation]([https://onedrive.live.com/?cid=5A38BE4A4C58386D&id=5A38BE4A4C58386D%219065&parId=5A38BE4A4C58386D%218984&o=OneUp](https://1drv.ms/b/s!Am04WExKvjhaxmmzmoK2ybwwD65v?e=gaoKbR))): Using the HR-related public dataset from Kaggle, my contribution to this group project is on the statistical test to identify the pay equity and salary increment among gender and department. I also developed and deployed the model to predict the attrition rate of employees.
+- [HR Analytics: Insights behind Employees Productivity, Performance and Attrition](https://github.com/CarlOsito16/BIA) ([presentation](https://1drv.ms/b/s!Am04WExKvjhaxmmzmoK2ybwwD65v?e=gaoKbR): Using the HR-related public dataset from Kaggle, my contribution to this group project is on the statistical test to identify the pay equity and salary increment among gender and department. I also developed and deployed the model to predict the attrition rate of employees.
 
 
 
