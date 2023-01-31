@@ -24,10 +24,14 @@ Despite my newly found interest and experience in this field, I am proud to have
 
 ### Non-Structured Data
 
+
+- [5 Emotion Recognition with Deep Neural Network on Brain Signal Dataset (SEED-V)](https://github.com/CarlOsito16/CP_EEG) ([presentation](https://docs.google.com/presentation/d/1SXF2A1UCscwQ7MBZUSAdMieHb816HPJ9/edit?usp=sharing&ouid=100485254388899021611&rtpof=true&sd=true))
 - [Masked BERT Model on Depression Detection on Social Media](https://github.com/CarlOsito16/NLP_Depression_Detection_Project) ([presentation](https://1drv.ms/b/s!Am04WExKvjhaxmg38FmrME_lMQAI?e=fYXOwJ)): Inspired by the knowledge enhanced masking technique mentioned in [this paper](https://aclanthology.org/2021.naacl-main.376/), we retrain the BERT model on depression Twitter datasets by selectively masking the depression-related English vocabulary consulted from [Linguistic Inquiry and Word Count](https://www.liwc.app) to see if the finetuned model could perform better in the classsificaiton task
 
 
 - [Sentiment and Topic Classification on Textual Employee Engagement Survey](https://github.com/CarlOsito16/CPNEE-new) ([presentation](https://1drv.ms/b/s!Am04WExKvjhavQlXZBxHtatbRD14?e=3e2fmq), [paper](https://1drv.ms/b/s!Am04WExKvjhavQip1tHeYNvA50ue?e=lJ8oFM)): My ever first ML project using the employee engagement survey from a company I worked as HR. We tackled the classification problem by comparing between the using traditional NLP approach TF-IDF and the more recent of pre-trained BERT model to see their performance for 2-class sentiment classfication (Positive/ Negative) and 10-class topic classificaiton (Compensation, Work-Life Balance, Management, etc.)
+
+- [5-
 
 
 
