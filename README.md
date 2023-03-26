@@ -15,15 +15,15 @@ Despite my newly found interest and experience in this field, I am proud to have
 
 <p float="center">
 
-  <img src="images/pro1-1.png" width="500" />
-  <img src="images/pro1-2.png" width="500" /> 
+  <img src="images/pro1-1.png" width="300" />
+  <img src="images/pro1-2.png" width="300" /> 
 
 </p>
 
 <p float="center">
 
-  <img src="images/pron1-3.png" width="500" />
-  <img src="images/pro1-4.png" width="500" /> 
+  <img src="images/pron1-3.png" width="300" />
+  <img src="images/pro1-4.png" width="300" /> 
 
 </p>
 
