@@ -53,6 +53,16 @@ Despite my newly found interest and experience in this field, I am proud to have
 
 
 
+<p float="center">
+
+  <img src="images/pron3-1.png" width="280" />
+  <img src="images/pro3-2.png" width="280" /> 
+  <img src="images/pro33-3.png" width="280" />
+
+
+</p>
+
+
 
 
 
