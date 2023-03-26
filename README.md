@@ -80,6 +80,23 @@ Despite my newly found interest and experience in this field, I am proud to have
 - [5 Emotion Recognition with Deep Neural Network on Brain Signal Dataset (SEED-V)](https://github.com/CarlOsito16/CP_EEG) ([presentation](https://docs.google.com/presentation/d/1SXF2A1UCscwQ7MBZUSAdMieHb816HPJ9/edit?usp=sharing&ouid=100485254388899021611&rtpof=true&sd=true)): Using the electroencephalogram dataset from the BCMI brain lab, this project tried to compare the performance of 5-emotion classification with subject-independent and session-independent training. We used both traditional ML algorighms as well as a deep basic neural network to see their performance.
 
 
+
+<p float="center">
+
+  <img src="images/pro4-1.png" width="400" />
+  <img src="images/pro4-2.png" width="400" /> 
+
+</p>
+
+<p float="center">
+
+  <img src="images/pro4-3.png" width="400" />
+  <img src="images/pro4-4.png" width="400" /> 
+
+</p>
+
+
+
 - [Masked BERT Model on Depression Detection on Social Media](https://github.com/CarlOsito16/NLP_Depression_Detection_Project) ([presentation](https://1drv.ms/b/s!Am04WExKvjhaxmg38FmrME_lMQAI?e=fYXOwJ)): Inspired by the knowledge enhanced masking technique mentioned in [this paper](https://aclanthology.org/2021.naacl-main.376/), we retrain the BERT model on depression Twitter datasets by selectively masking the depression-related English vocabulary consulted from [Linguistic Inquiry and Word Count](https://www.liwc.app) to see if the finetuned model could perform better in the classsificaiton task
 
 
