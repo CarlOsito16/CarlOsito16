@@ -100,9 +100,61 @@ Despite my newly found interest and experience in this field, I am proud to have
 - [Masked BERT Model on Depression Detection on Social Media](https://github.com/CarlOsito16/NLP_Depression_Detection_Project) ([presentation](https://1drv.ms/b/s!Am04WExKvjhaxmg38FmrME_lMQAI?e=fYXOwJ)): Inspired by the knowledge enhanced masking technique mentioned in [this paper](https://aclanthology.org/2021.naacl-main.376/), we retrain the BERT model on depression Twitter datasets by selectively masking the depression-related English vocabulary consulted from [Linguistic Inquiry and Word Count](https://www.liwc.app) to see if the finetuned model could perform better in the classsificaiton task
 
 
+<p float="center">
+
+  <img src="images/pro5-1.png" width="400" />
+  <img src="images/pro5-2.png" width="400" /> 
+
+
+</p>
+
+
+<p float="center">
+
+  <img src="images/pro5-3.png" width="400" />
+  <img src="images/pro5-4.png" width="400" /> 
+
+</p>
+
+---
+
 - [Sentiment and Topic Classification on Textual Employee Engagement Survey](https://github.com/CarlOsito16/CPNEE-new) ([presentation](https://1drv.ms/b/s!Am04WExKvjhavQlXZBxHtatbRD14?e=3e2fmq), [paper](https://1drv.ms/b/s!Am04WExKvjhavQip1tHeYNvA50ue?e=lJ8oFM)): My ever first ML project using the employee engagement survey from a company I worked as HR. We tackled the classification problem by comparing between the using traditional NLP approach TF-IDF and the more recent of pre-trained BERT model to see their performance for 2-class sentiment classfication (Positive/ Negative) and 10-class topic classificaiton (Compensation, Work-Life Balance, Management, etc.)
+
+<p float="center">
+
+  <img src="images/pro6-1.png" width="400" />
+  <img src="images/pro6-2.png" width="400" /> 
+
+
+</p>
+
+
+<p float="center">
+
+  <img src="images/pro6-3.png" width="400" />
+  <img src="images/pro6-4.png" width="400" /> 
+
+</p>
+
+---
 
 - [Visual Word Sense Disambiguation](https://github.com/akmyat/V-WSD/tree/main/poon-method) ([presentation](https://www.canva.com/design/DAFTJb80n7c/5jyx6JcOmZiVOSfW6_1zKg/view?utm_content=DAFTJb80n7c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [demo](https://huggingface.co/spaces/Carlosito16/DL-Image-text-disambiguity)): Joining the participation of [17th International Workshop on Semantic Evaluation - Task 1](https://semeval.github.io/SemEval2023/tasks.html), our group proposed different architectures and used diversed huge pretrained model including Visual transforme and Contrastive Language-Image Pretrained model (CLIP) to compute the closest similarity between ambiguous words (as in 'bank savings' and 'bank erosion' to the 10 different images. The goal is to have the model choose a correct image relevant to the given context.
 
 
+<p float="center">
 
+  <img src="images/pro7-1.png" width="400" />
+  <img src="images/pro7-2.png" width="400" /> 
+
+
+</p>
+
+
+<p float="center">
+
+  <img src="images/pro7-3.png" width="400" />
+  <img src="images/pro7-4.png" width="400" /> 
+
+</p>
+
+---
