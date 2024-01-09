@@ -31,7 +31,7 @@ Despite my newly found interest and experience in this field, I am proud to have
 
 <!-- ![alt-text-1](images/pro1-1.png "title-1") ![alt-text-2](images/pro1-2.png "title-1")  ![alt-text-3](images/pron1-23.png "title-1") -->
 
-- [Does reduced traffic flow result in better air quality?](https://github.com/CarlOsito16/IoTMadrid) ([presentation](https://1drv.ms/b/s!Am04WExKvjhaibZyWewjBUdJJiyymw?e=HbSISd), [paper](https://1drv.ms/b/s!Am04WExKvjhaibZzyvrpTpDqYqVCPw?e=1et3sC)): This project is for IoT class in which I am studying the correlation between the traffic flow and the air pollutant levels using the open dataset from Madrid, Spain. The analysis goes deeper in identifying the pattern and gauge the statistical signifiance in ternms of traffic change and its correlation before COVID, during COVID and after COVID years.
+- [Does reduced traffic flow result in better air quality?](https://github.com/CarlOsito16/IoTMadrid) ([presentation](https://1drv.ms/b/s!Am04WExKvjhaibZyWewjBUdJJiyymw?e=HbSISd)): This project is for IoT class in which I am studying the correlation between the traffic flow and the air pollutant levels using the open dataset from Madrid, Spain. The analysis goes deeper in identifying the pattern and gauge the statistical signifiance in ternms of traffic change and its correlation before COVID, during COVID and after COVID years.
 
 <p float="center">
 
